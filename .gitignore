@@ -47,7 +47,6 @@ migrations.json
 .DS_Store
 Thumbs.db
 
-.env
 .env.prod
 
 # Nx
@@ -160,3 +159,4 @@ apps/server-api/src/assets/icons/menu
 !**/certs/**/.gitkeep
 
 /Tempnx-console-tmp**/**
+config.bat
