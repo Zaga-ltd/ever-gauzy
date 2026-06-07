@@ -24,7 +24,6 @@ node_modules/
 *.sublime-workspace
 
 # IDE - VSCode
-.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -47,7 +46,6 @@ migrations.json
 .DS_Store
 Thumbs.db
 
-.env
 .env.prod
 
 # Nx
@@ -160,3 +158,4 @@ apps/server-api/src/assets/icons/menu
 !**/certs/**/.gitkeep
 
 /Tempnx-console-tmp**/**
+config.bat
