@@ -158,4 +158,3 @@ apps/server-api/src/assets/icons/menu
 !**/certs/**/.gitkeep
 
 /Tempnx-console-tmp**/**
-config.bat
